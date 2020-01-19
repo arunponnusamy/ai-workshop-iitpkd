@@ -12,6 +12,8 @@
 
 [Object Detection with cvlib](https://colab.research.google.com/drive/1WlGZudAHyK27o0Z1azc2Dtr_F8yiIAUZ)
 
+[Gender Detection with cvlib](https://colab.research.google.com/drive/1uS-BsYx6QD_S0BJaFvptiyszBaFHDFXI)
+
 ### Python Scripts (to use on command line / terminal)
 
 [Webcam Face Detection with cvlib](https://github.com/arunponnusamy/cvlib/blob/master/examples/face_detection_webcam.py)

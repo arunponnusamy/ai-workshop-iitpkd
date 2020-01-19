@@ -1,5 +1,8 @@
 ## Resources
 
+### Slides
+[Google Slides](https://docs.google.com/presentation/d/1LZcPk90CaLdWI1JglAbauGpJGwFGw8JVo7JCob-EYiI/edit?usp=sharing)
+
 ### Colab Notebooks
 [Face Detection with OpenCV](https://colab.research.google.com/drive/1ZQmBY5_uBhHHEuLx8605uoyTi7868bAx)
 

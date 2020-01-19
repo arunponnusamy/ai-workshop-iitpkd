@@ -12,3 +12,7 @@
 ### Python Scripts (to use on command line / terminal)
 
 [Webcam Face Detection with cvlib](https://github.com/arunponnusamy/cvlib/blob/master/examples/face_detection_webcam.py)
+
+
+## Feedback about the workshop
+[Survey Link](https://www.surveymonkey.com/r/NHT9WVT)

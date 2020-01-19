@@ -5,6 +5,8 @@
 
 [Face Recognition](https://colab.research.google.com/drive/1W8U_zXpB_iTp_x7FHYaNaeDEzU28MYxZ)
 
+[Image Classification with Keras](https://colab.research.google.com/drive/1SfNF3uul-HyPR4lrQYPnda051T58NgAf)
+
 ### Python Scripts (to use on command line / terminal)
 
 [Webcam Face Detection with cvlib](https://github.com/arunponnusamy/cvlib/blob/master/examples/face_detection_webcam.py)
